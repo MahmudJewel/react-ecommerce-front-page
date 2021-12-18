@@ -34,7 +34,7 @@ class Card extends React.Component {
                     <div className="card-body">
                               <p className="card-title" style={{color: 'black'}}>Title</p>
                               <h5 className="card-text" style={{color: 'black'}}>Price</h5>
-                              <form action="/#" method="post">
+                              <form action="" method="">
 					                
                                 <button className="btn btn-danger m-1" type='submit' name='rmvFromCart' style={{width: "100%"}}>Remove from Cart</button>
                                 
